@@ -10,7 +10,7 @@ No registration, no tracking cookies, and completely anonymous!
 * **What it does:** Allows users to create professional, ready-to-print commercial invoices instantly.
 * **How it works:** Users simply input their business details, client info, itemized products/services, and quantities. The tool dynamically calculates totals, taxes, and formats everything into a clean, professional invoice layout right inside the browser.
 
-### 2. Adobe Illustrator Perfect Size Generator
+### 2. Adobe Illustrator Perfect Export Image (PNG, JPG) Size Generator
 * **What it does:** A specialized utility built for digital designers and vector artists preparing assets for platforms like Shutterstock or print media.
 * **How it works:** Users input their desired target dimensions, aspect ratios, or DPI settings, and the tool instantly computes and suggests the exact pixel-perfect artboard dimensions required to avoid scaling issues and meet professional design submission standards.
 
