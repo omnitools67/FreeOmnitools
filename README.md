@@ -14,7 +14,7 @@ No registration, no tracking cookies, and completely anonymous!
 * **What it does:** A specialized utility built for digital designers and vector artists preparing assets for platforms like Shutterstock or print media.
 * **How it works:** Users input their desired target dimensions, aspect ratios, or DPI settings, and the tool instantly computes and suggests the exact pixel-perfect artboard dimensions required to avoid scaling issues and meet professional design submission standards.
 
-## 🚀 Explore All 75+ Tools
+## 🚀 Explore All 85+ Tools
 Discover our entire suite of developer helpers, text manipulators, and calculators at:
 👉 **[https://www.omnitools.pk](https://www.omnitools.pk)**
 ![Profile Views](https://komarev.com/ghpvc/?username=omnitools67&color=blue)
